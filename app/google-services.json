@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "488005003524",
+    "project_id": "mvvmwithfirebase-1778f",
+    "storage_bucket": "mvvmwithfirebase-1778f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488005003524:android:2a848a762b0309356f0851",
+        "android_client_info": {
+          "package_name": "com.murat.mvvmwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488005003524-dscpdc0c6iiihk6ga089sm18a9hc71ki.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.murat.mvvmwithfirebase",
+            "certificate_hash": "8923efb6ddc76608e1fbc55b5ee5f6145e481283"
+          }
+        },
+        {
+          "client_id": "488005003524-m2jl7hpuc064pqvhs8ku4sl0gt81t41t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxXcj51Afx8m-awSo9S9iN-7IkG9LtVgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488005003524-m2jl7hpuc064pqvhs8ku4sl0gt81t41t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
